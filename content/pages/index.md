@@ -26,10 +26,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Date Change
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          No matter the airline you are traveling with, our airline specialists
+          can help you amend your travel dates with all airlines,
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
