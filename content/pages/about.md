@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
+subtitle: We are on a mission to make air travel fairer and customer friendly.
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
