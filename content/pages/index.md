@@ -34,7 +34,7 @@ sections:
           Found out that your name on the ticket does not match your Govt.
           issued ID? Do not fret! Our airline insiders can ensure you do not
           have any problems while at the airport.
-      - title: Service Title
+      - title: Cancellation
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
