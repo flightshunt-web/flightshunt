@@ -35,10 +35,10 @@ sections:
           issued ID? Do not fret! Our airline insiders can ensure you do not
           have any problems while at the airport.
       - title: Cancellation
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Had to cancel your trip due to some unforeseen circumstances? Let our
+          experts make sure that you retain the complete value of your flight
+          ticket.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
