@@ -48,9 +48,11 @@ sections:
           lowest fare.
       - title: American Airlines
         content: >
-          Had to cancel your trip due to some unforeseen circumstances? Let our
-          experts make sure that you retain the complete value of your flight
-          ticket.
+          The world's largest airline by the sheer size of its fleet. With hubs
+          scattered all over the US, AA is the best airline to fly in and around
+          the US. AA's premium seats and onboard entertainment options make that
+          journey even more rewarding. Looking to fly to more than one American
+          cities then let our experts design your next American adventure.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
