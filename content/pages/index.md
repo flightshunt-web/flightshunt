@@ -66,8 +66,9 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          You came into my life when I had already wasted hours over the phone
+          trying to get through to airline customer support. This service is
+          truly a game changer.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
