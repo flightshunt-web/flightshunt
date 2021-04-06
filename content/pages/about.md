@@ -1,7 +1,6 @@
 ---
 title: About Us
 subtitle: We are on a mission to make air travel fairer and customer friendly.
-image: images/about.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
