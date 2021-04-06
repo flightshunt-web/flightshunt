@@ -29,7 +29,7 @@ sections:
         content: >
           No matter the airline you are traveling with, our airline specialists
           can help you amend your travel dates with all airlines,
-      - title: Service Title
+      - title: Name Change
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
