@@ -32,8 +32,11 @@ sections:
     grid_items:
       - title: Copa Airlines
         content: >
-          No matter the airline you are traveling with, our airline specialists
-          can help you amend your travel dates with all airlines,
+          The Flag carrier of the country that emerged from the sea to change
+          the world forever. Whether you are looking for an adventure holiday or
+          want to visit the tropical paradise, Panama is. The best way to fly to
+          Panama is with Copa Airlines, and the best seats on Airplanes are
+          booked by. You know who! ;-)
       - title: Name Change
         content: >
           Found out that your name on the ticket does not match your Govt.
