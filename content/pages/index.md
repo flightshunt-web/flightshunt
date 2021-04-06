@@ -60,8 +60,8 @@ sections:
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          You guys simply rock, I was able to claim compensation for lost
+          baggage ************* in less than a week!
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
