@@ -69,7 +69,7 @@ sections:
           You came into my life when I had already wasted hours over the phone
           trying to get through to airline customer support. This service is
           truly a game changer.
-  - title: lorem-ipsum
+  - title: Have Questions? Get Answers
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
