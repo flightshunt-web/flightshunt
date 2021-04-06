@@ -105,17 +105,11 @@ sections:
         type: grid_item
       - title: Havana
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The Cuban experience is indeed memorable and exciting. Beaches, lush
+          green countryside and vibrant cities with the scent of rum and cigars.
+          The capital city Havana is connected with 10 U.S. Cities including Los
+          Angeles, Miami and New York.
         actions: []
         type: grid_item
     type: section_grid
