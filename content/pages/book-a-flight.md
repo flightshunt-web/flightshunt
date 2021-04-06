@@ -46,7 +46,7 @@ sections:
           the streets of Oaxaca, or you want to behold the wonder called Machu
           Picchu in Peru, Our flight hunters can get you the best seats at the
           lowest fare.
-      - title: Cancellation
+      - title: American Airlines
         content: >
           Had to cancel your trip due to some unforeseen circumstances? Let our
           experts make sure that you retain the complete value of your flight
