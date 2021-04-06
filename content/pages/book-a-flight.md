@@ -23,7 +23,7 @@ sections:
         type: action
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Our Favorite Airlines
     subtitle: One stop support for all airlines and online travel agencies
     col_number: two
     is_numbered: true
