@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Expert Travel Support
+    title: >-
+      Psst... Our fares are so low that the airlines do not allow us to offer
+      them online.
     content: |
       Need an expert to manage your air travel ?
     actions:
