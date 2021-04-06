@@ -30,10 +30,10 @@ sections:
           No matter the airline you are traveling with, our airline specialists
           can help you amend your travel dates with all airlines,
       - title: Name Change
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Found out that your name on the ticket does not match your Govt.
+          issued ID? Do not fret! Our airline insiders can ensure you do not
+          have any problems while at the airport.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
