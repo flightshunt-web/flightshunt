@@ -37,7 +37,7 @@ sections:
           want to visit the tropical paradise, Panama is. The best way to fly to
           Panama is with Copa Airlines, and the best seats on Airplanes are
           booked by. You know who! ;-)
-      - title: Name Change
+      - title: AeroMexico
         content: >
           Found out that your name on the ticket does not match your Govt.
           issued ID? Do not fret! Our airline insiders can ensure you do not
