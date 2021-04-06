@@ -30,7 +30,7 @@ sections:
     col_number: three
     is_numbered: true
     grid_items:
-      - title: Date Change
+      - title: Copa Airlines
         content: >
           No matter the airline you are traveling with, our airline specialists
           can help you amend your travel dates with all airlines,
