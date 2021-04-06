@@ -112,7 +112,7 @@ sections:
           Angeles, Miami and New York.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Guadalajara
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
