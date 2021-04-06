@@ -97,17 +97,10 @@ sections:
     grid_items:
       - title: Mexico City
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Mexican food, beautiful beaches and epitome of leisure at
+          all-inclusive resorts of Cancun. Do you need more reasons to book a
+          flight for the United Mexican States..
         actions: []
         type: grid_item
     type: section_grid
