@@ -7,6 +7,18 @@ sections:
     content: >
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at info@tripsandmore.com
+      or reach out to us by phone on the number below.
+
+
+
+
+      **Our Office Address**
+
+
+      647 W Shaw AveFresno, CA 93704
+
+
+      \+1 (877) 370-0054
     form_id: contactForm
     form_action: /thank-you
     form_fields:
