@@ -24,7 +24,9 @@ sections:
   - section_id: services
     type: section_grid
     title: Our Favorite Airlines
-    subtitle: One stop support for all airlines and online travel agencies
+    subtitle: >-
+      Our travel insiders love flying with these airlines and they know how to
+      get the best seats at lowest price!
     col_number: two
     is_numbered: true
     grid_items:
