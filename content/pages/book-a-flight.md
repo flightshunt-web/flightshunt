@@ -114,17 +114,10 @@ sections:
         type: grid_item
       - title: Guadalajara
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The 8th best city in South America, fancy a bar-hopping party there's
+          no better place for tequilas. With daily connections from all major
+          cities of the U.S., Guadalajara is only a couple of hours away.
         actions: []
         type: grid_item
     type: section_grid
