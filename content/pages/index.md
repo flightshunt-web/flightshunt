@@ -71,16 +71,13 @@ sections:
           truly a game changer.
   - title: Have Questions? Get Answers
     section_id: lorem-ipsum
-    content: >+
+    content: >
       We've got your back! our travel experts are standing by to answer any
       questions that you may have. Reach out to us by email at care@flightshunt,
       com, or simply call
 
 
-      **(877) 370-0054
-
-      **
-
+      **(877) 370-0054**
     actions: []
     type: section_hero
 seo:
