@@ -27,7 +27,7 @@ sections:
     subtitle: >-
       Our travel insiders love flying with these airlines and they know how to
       get the best seats at lowest price!
-    col_number: two
+    col_number: three
     is_numbered: true
     grid_items:
       - title: Date Change
