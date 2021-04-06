@@ -77,9 +77,6 @@ sections:
       care@flightshunt.com, or simply call
 
 
-      ***
-
-
       # (877) 370-0054
     actions: []
     type: section_hero
