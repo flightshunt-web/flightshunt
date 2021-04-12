@@ -6,10 +6,8 @@ sections:
     type: section_form
     content: >
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at info@tripsandmore.com
-      or reach out to us by phone on the number below.
-
-
+      fill the contact form below or send us an email at info@flightshunt.com or
+      reach out to us by phone on the number below.
 
 
       **Our Office Address**
